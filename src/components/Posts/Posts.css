@@ -1,0 +1,13 @@
+.css-o69gx8-MuiCardMedia-root{
+    max-width: max-content;
+    max-height: -webkit-fill-available;
+}
+.css-jcfe1v-MuiContainer-root {
+    margin: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-sm-6.MuiGrid-grid-md-4.css-iltpxr-MuiGrid-root{
+    padding: 4px;
+}

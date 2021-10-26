@@ -1,0 +1,11 @@
+.MuiTypography-h6 {
+    
+    color: black;
+}
+input {
+    width: -webkit-fill-available;
+
+}
+input#file-upload-button {
+    background-color: brown;
+}
